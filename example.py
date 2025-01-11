@@ -1,9 +1,4 @@
-print("This is an example for a test")
-print("This is a second line.....")
-print("This is a third line.....")
-print("This is a fourth line.....")
-print("This is a fifth line.....")
-print("This is a sixth line.....")
-print("This is a seventh line.....")
-print("This is a eighth line.....")
-print("This is a ninth line.....")
+"""
+This is a video walkthrough of the example.py file.
+
+"""
